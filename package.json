@@ -1,0 +1,22 @@
+{
+  "name": "minhexamplenode",
+  "version": "1.0.0",
+  "description": "demonodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhm2523006/git-lesson.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhm2523006/git-lesson/issues"
+  },
+  "homepage": "https://github.com/minhm2523006/git-lesson#readme"
+}
